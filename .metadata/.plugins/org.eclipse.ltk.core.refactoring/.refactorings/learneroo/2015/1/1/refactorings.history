@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;learneroo/src/stack/Stack.java&apos; to &apos;StackClass.java&apos;" description="Rename resource &apos;Stack.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/stack/Stack.java" name="StackClass.java" stamp="1420203430008" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;learneroo/src/stack&apos; to &apos;stackpkg&apos;" description="Rename resource &apos;stack&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/stack" name="stackpkg" stamp="1420204164199" updateReferences="true"/>
+</session>

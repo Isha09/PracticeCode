@@ -1,0 +1,10 @@
+package queuepkg;
+
+public class Q_LLMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

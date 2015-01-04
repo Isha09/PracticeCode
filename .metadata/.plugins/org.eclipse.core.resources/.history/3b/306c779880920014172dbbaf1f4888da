@@ -1,0 +1,22 @@
+package stack;
+import basicds.Node;
+public class Stack {
+	
+	Node head;
+    Node tail;
+    
+    public void push(int num){
+    	Node newnode = new Node(num);
+    	if(head == null){
+    		head=newnode;
+    		tail=newnode;
+    	}
+    	else{
+    		newnode.next=head;
+    		head=newnode;
+    	}
+    }
+	
+	
+
+}
